@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs, HTML
+- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs, HTML,CSS
 - 📚 **Currently Learning:** State Management using `Provider`  
 - 🤝 **Looking to Collaborate:** Flutter and Firebase-based mobile projects  
 - 📬 **Reach Me At:** shakilahmed.of@gmail.com  
