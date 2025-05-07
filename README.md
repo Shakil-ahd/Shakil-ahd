@@ -4,9 +4,7 @@
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
@@ -19,7 +17,7 @@
 
 ## 🧠 About Me
 
-- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs, HTML,CSS
+- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs  
 - 📚 **Currently Learning:** State Management using `Provider`  
 - 🤝 **Looking to Collaborate:** Flutter and Firebase-based mobile projects  
 - 📬 **Reach Me At:** shakilahmed.of@gmail.com  
