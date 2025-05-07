@@ -11,21 +11,21 @@
 
 # 👋 Hey, I'm Shakil Ahmed!
 
-🎯 **Aspiring Flutter Developer** with a passion for building beautiful, scalable, and real-world mobile apps. Always curious and hungry to learn!
+🎯 **Flutter Developer** passionate about building beautiful and efficient mobile apps.
 
 ---
 
 ## 🧠 About Me
 
+I’m passionate about building mobile apps with Flutter. I enjoy crafting smooth, user-friendly experiences that perform well. If you're looking for a developer to bring your app ideas to life, let's collaborate!
+
 - 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs  
-- 📚 **Currently Learning:** State Management using `Provider`  
-- 🤝 **Looking to Collaborate:** Flutter and Firebase-based mobile projects  
-- 📬 **Reach Me At:** shakilahmed.of@gmail.com  
-- 🎉 **Fun Fact:** I enjoy exploring UI/UX and bringing ideas to life with Flutter!
+- 📚 **Currently Learning:** Advanced state management with `Provider`  
+- 📬 **Contact:** shakilahmed.of@gmail.com
 
 ---
 
-> 🌱 *“Grow consistently. Build confidently.”*
+> 🌱 *"Let's build something amazing!"*
 
 <!---
 Shakil-ahd/Shakil-ahd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
