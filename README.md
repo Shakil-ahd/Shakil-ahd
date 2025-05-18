@@ -20,7 +20,7 @@
 
 I’m passionate about building mobile apps with Flutter. I enjoy crafting smooth, user-friendly experiences that perform well. If you're looking for a developer to bring your app ideas to life, let's collaborate!
 
-- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, REST APIs  
+- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs 
 - 📚 **Currently Learning:** Advanced state management with `BLoC`  
 - 📬 **Contact:** shakilahmed.of@gmail.com
 
