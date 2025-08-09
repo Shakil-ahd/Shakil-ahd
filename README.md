@@ -20,18 +20,29 @@
 
 I’m passionate about building mobile apps with Flutter. I enjoy crafting smooth, user-friendly experiences that perform well. If you're looking for a developer to bring your app ideas to life, let's collaborate!
 
-- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs 
+- 🛠️ **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs  
 - 📚 **Currently Learning:** Advanced state management with `BLoC`  
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| **Library Management App** | Manage books, members, and transactions with Supabase backend. | Flutter, Supabase |
-| **Chat App** | Real-time messaging with dark/light mode and BLoC state management. | Flutter, Firebase, BLoC |
-| **Portfolio Website** | Personal animated portfolio using Flutter Web. | Flutter Web |
+- 📚 [**Library Management App**](https://github.com/Shakil-ahd/library_management_system-main) – Manage books, members, and transactions with Supabase backend.  
+- ✅ [**Tudu App**](https://github.com/Shakil-ahd/Tudu-App) – A modern to-do list app for productivity lovers.  
+- 💬 [**Chat App**](https://github.com/Shakil-ahd/chat_app_test) – Real-time messaging with dark/light mode and BLoC.  
+- 🔳 [**QR Code Maker**](https://github.com/Shakil-ahd/qr-code-maker) – Generate QR codes instantly from text or URLs.  
+- 📷 [**Instagram Clone**](https://github.com/Shakil-ahd/instagram_app) – Instagram-style social app with Flutter + Firebase.  
+
+---
+
+## 🛠 Skills & Tools
+
+| Category       | Technologies |
+|----------------|--------------|
+| **Frontend**   | Flutter, Dart |
+| **Backend**    | Firebase, Supabase, REST API |
+| **Languages**  | Dart, C++, Java |
+| **Others**     | Git, BLoC, Provider |
 
 ---
 
