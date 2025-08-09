@@ -27,22 +27,39 @@ I’m passionate about building mobile apps with Flutter. I enjoy crafting smoot
 
 ## 🚀 Projects
 
-- 📚 [**Library Management App**](https://github.com/Shakil-ahd/library_management_system-main) – Manage books, members, and transactions with Supabase backend.  
-- ✅ [**Tudu App**](https://github.com/Shakil-ahd/Tudu-App) – A modern to-do list app for productivity lovers.  
-- 💬 [**Chat App**](https://github.com/Shakil-ahd/chat_app_test) – Real-time messaging with dark/light mode and BLoC.  
-- 🔳 [**QR Code Maker**](https://github.com/Shakil-ahd/qr-code-maker) – Generate QR codes instantly from text or URLs.  
-- 📷 [**Instagram Clone**](https://github.com/Shakil-ahd/instagram_app) – Instagram-style social app with Flutter + Firebase.  
+### 📚 [**Library Management App**](https://github.com/Shakil-ahd/library_management_system-main)  
+A complete digital solution for managing books, members, and transactions. Built with **Flutter** and **Supabase**, this app provides an intuitive and efficient experience for librarians and readers alike.  
 
 ---
 
-## 🛠 Skills & Tools
+### ✅ [**Tudu App**](https://github.com/Shakil-ahd/Tudu-App)  
+A sleek and modern **to-do list app** designed to help you stay organized and boost productivity with a clean, minimal interface.  
+
+---
+
+### 💬 [**Chat App**](https://github.com/Shakil-ahd/chat_app_test)  
+A real-time messaging app featuring **dark/light mode** and powered by **BLoC state management**. Offers smooth Firebase authentication and instant chat updates.  
+
+---
+
+### 🔳 [**QR Code Maker**](https://github.com/Shakil-ahd/qr-code-maker)  
+Quickly generate custom **QR codes** from text or URLs — perfect for sharing information on the go. Simple, lightweight, and easy to use.  
+
+---
+
+### 📸 [**Instagram Clone**](https://github.com/Shakil-ahd/instagram_app)  
+An Instagram-inspired social app featuring photo sharing, likes, and comments, built with Flutter & Firebase for a seamless experience.  
+
+---
+
+## 🛠️ Skills & Tools
 
 | Category       | Technologies |
 |----------------|--------------|
 | **Frontend**   | Flutter, Dart |
 | **Backend**    | Firebase, Supabase, REST API |
 | **Languages**  | Dart, C++, Java |
-| **Others**     | Git, BLoC, Provider |
+| **Tools & State Management** | Git, BLoC, Provider |
 
 ---
 
