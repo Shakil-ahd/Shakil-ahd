@@ -59,7 +59,7 @@ An Instagram-inspired social app featuring photo sharing, likes, and comments, b
 | **Frontend**   | Flutter, Dart |
 | **Backend**    | Firebase, Supabase, REST API |
 | **Languages**  | Dart, C++, Java |
-| **Tools & State Management** | Git, BLoC, Provider |
+| **Tools & State Management** | Git, BLoC, GetX |
 
 ---
 
