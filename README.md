@@ -69,7 +69,7 @@ An Instagram-inspired social app featuring photo sharing, likes, and comments, b
   <a href="mailto:shakilahmed.of@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shakil-ahmed">
+  <a href="https://www.linkedin.com/in/shakil-ahmed22">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://facebook.com/shakilahmed.of">
