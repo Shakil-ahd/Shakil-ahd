@@ -2,8 +2,7 @@
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/State%20Management-BLoC-0052CC?style=for-the-badge&logo=bloc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State%20Management-BLoC-0052CC?style=for-the-badge&logo=bloc&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
@@ -15,9 +14,9 @@
 <h3 align="center">Welcome to my Digital Playground!</h3>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Building+Beautiful+UI%2FUX;Loves+to+solve+problems;Lets+build+something+amazing!" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Building+Beautiful+UI%2FUX;Loves+to+solve+problems;Lets+build+something+amazing!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -71,24 +70,74 @@ An Instagram-inspired social app built with **Flutter & Firebase**. It features 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 My Toolkit
+Explore the tools and tech I wield to craft digital magic! 🚀
 
-| Category       | Technologies |
-|----------------|--------------|
-| **Frontend**   | Flutter, Dart |
-| **Backend**    | Firebase, Supabase, REST API |
-| **Database**   | Hive (Local), Firestore (Cloud) |
-| **Languages**  | Dart, C++, Java |
-| **Tools & State** | Git, BLoC, GetX |
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter">
+      <br><strong>Flutter</strong>
+      <br><small>Building cross-platform apps</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" alt="Dart">
+      <br><strong>Dart</strong>
+      <br><small>Powering Flutter</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase">
+      <br><strong>Firebase</strong>
+      <br><small>Real-time backend</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase">
+      <br><strong>Supabase</strong>
+      <br><small>Scalable database</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/State%20Management-BLoC-0052CC?style=for-the-badge&logo=bloc&logoColor=white" height="40" alt="BLoC">
+  </tr>
+  
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="REST API">
+      <br><strong>REST API</strong>
+      <br><small>Interfacing with services</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java">
+      <br><strong>Java</strong>
+      <br><small>Versatile language</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++">
+      <br><strong>C++</strong>
+      <br><small>High-performance coding</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git">
+      <br><strong>Git</strong>
+      <br><small>Version control</small>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code">
+      <br><strong>VS Code</strong>
+      <br><small>My coding playground</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakil-ahd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Shakil's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-ahd&layout=compact&theme=radical&hide_border=true" alt="Shakil's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakil-ahd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Shakil GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-ahd&layout=compact&theme=radical&hide_border=true" alt="Shakil Top Languages"/>
 </p>
 
 ---
