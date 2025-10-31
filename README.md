@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Building+Beautiful+UI%2Fs;Loves+to+solve+problems;Let's+build+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Building+Beautiful+UI%2FUX;Loves+to+solve+problems;Lets+build+something+amazing!" alt="Typing SVG" />
   </a>
 </p>
 
